@@ -7,7 +7,6 @@ List of Windows Keyboard Shortcuts
      ├── MSpowerpointKeyboardShortcuts.tsv
      ├── MSwordKeyboardShortcuts.tsv
      ├── README.md
-     ├── WindowsKeyboardShortcuts.tsv
-     └── WordKeyboardShortcuts.tsv
+     └── WindowsKeyboardShortcuts.tsv
      
-     0 directories, 6 files (Tue Jan  4 06:48:42 JST 2022)
+     0 directories, 5 files (Tue Jan  4 06:50:11 JST 2022)
