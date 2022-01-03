@@ -1,0 +1,22 @@
+Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+Win10	-	-	x	-	F10	右クリックメニューを表示
+Win10	-	x	-	-	U	ひらがな
+Win10	-	x	-	-	I	全角カタカナ
+Win10	-	x	-	-	O	半角カタカナ
+Win10	-	x	-	-	P	全角英数
+Win10	-	x	-	-	T	半角英数
+Win10	x	-	-	-	V	クリップボードの履歴を表示
+Win10	-	-	-	-	F2	ファイルやフォルダの名前を変更
+Win10	x	-	-	-	-	スタートメニュー
+Win10	x	-	-	-	I	設定メニューを開く
+Win10	x	-	-	-	D	デスクトップを表示（アプリを最小化）
+Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+Win10	x	-	-	-	-	
+
