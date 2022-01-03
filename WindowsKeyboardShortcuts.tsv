@@ -5,6 +5,7 @@ Win10	-	-	x	-	(Click)	連続したファイアル選択
 Win10	-	-	x	-	矢印	複数項目を選択	
 Win10	-	-	x	-	F10	右クリックメニューを表示
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 MSIME	-	x	-	-	U	ひらがな
 MSIME	-	x	-	-	I	全角カタカナ
 MSIME	-	x	-	-	O	半角カタカナ
@@ -15,6 +16,7 @@ MSIME	-	-	-	-	HOME	カーソルを文頭に移動
 MSIME	-	x	x	-	F10	IMEのプライベートモードを ON/OFF
 MSIME	x	-	-	-	/	再変換
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	-	(none)	スタートメニュー
 Win10	x	-	-	-	A	アクションセンターを開く
 Win10	x	-	-	-	B	
@@ -64,6 +66,7 @@ Win10	x	-	-	-	:
 Win10	x	-	-	-	:	
 Win10	x	-	-	-	:	
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10 	-	x	-	-	A	すべて選択
 Win10 	-	x	-	-	C	選択した項目をコピー
 Win10 	-	x	-	-	N	新規作成
@@ -80,16 +83,19 @@ Win10	-	x	-	-	(Click)
 Win10	-	x	-	-	(Drag)
 Win10	-	x	-	-	(MouseWheel)
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	-	PRTSCRN	スクリーンショット
 Win10	x	-	x	-	S	スクリーンショット
 Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウのみ）
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	x	SPACE	コマンドランチャー
 Win10	-	-	-	x	F4	アクティブなアプリを終了
 Win10	-	-	-	x	TAB	別のウィンドウに切り替える	
 #
 Win10	-	x	-	x	DEL	ロック画面の表示
 #
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	-	:	
 Win10	-	-	-	-	:	
 Win10	-	-	-	-	:	
@@ -99,4 +105,4 @@ Win10	-	-	-	-	:
 Win10	-	-	-	-	:	
 Win10	-	-	-	-	:	
 Win10	-	-	-	-	:	
-Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
