@@ -64,17 +64,17 @@ Win10	x	-	-	-	:
 Win10	x	-	-	-	:	
 Win10	x	-	-	-	:	
 #
-Win10	-	x	-	-	A	
-Win10	-	x	-	-	C	
-Win10	-	x	-	-	N	
-Win10	-	x	-	-	O	
-Win10	-	x	-	-	P	
-Win10	-	x	-	-	S	
-Win10	-	x	-	-	V	
-Win10	-	x	-	-	W	
-Win10	-	x	-	-	X	
-Win10	-	x	-	-	Y	
-Win10	-	x	-	-	Z	
+Win10 	-	x	-	-	A	すべて選択
+Win10 	-	x	-	-	C	選択した項目をコピー
+Win10 	-	x	-	-	N	新規作成
+Win10 	-	x	-	-	O	ファイルを開く
+Win10 	-	x	-	-	P	印刷画面を表示
+Win10 	-	x	-	-	S	ファイルを保存
+Win10 	-	x	-	-	V	切り取り，コピーした項目を貼り付け
+Win10 	-	x	-	-	W	表示中のファイルやアプリを閉じる
+Win10 	-	x	-	-	X	選択した項目を切り取る
+Win10 	-	x	-	-	Y	元に戻した操作をやり直す
+Win10 	-	x	-	-	Z	操作を元に戻す
 Win10	-	x	x	-	ESC	タスクマネージャの起動
 Win10	-	x	-	-	(Click)	
 Win10	-	x	-	-	(Drag)
