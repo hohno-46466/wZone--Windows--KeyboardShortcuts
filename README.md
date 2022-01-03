@@ -3,8 +3,11 @@
 List of Windows Keyboard Shortcuts
 
     wZone--Windows--KeyboardShortcuts
+     ├── MSexcelKeyboardShortcuts.tsv
+     ├── MSpowerpointKeyboardShortcuts.tsv
+     ├── MSwordKeyboardShortcuts.tsv
      ├── README.md
-     └── WindowsKeyboardShortcuts.tsv
+     ├── WindowsKeyboardShortcuts.tsv
+     └── WordKeyboardShortcuts.tsv
      
-     0 directories, 2 files (Tue Jan  4 06:45:04 JST 2022)
-
+     0 directories, 6 files (Tue Jan  4 06:48:42 JST 2022)
