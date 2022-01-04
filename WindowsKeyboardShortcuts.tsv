@@ -33,26 +33,48 @@ MSIME	x	-	-	-	/	再変換
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	-	A	アクションセンターを開く
 Win11	x	-	-	-	A	クイック設定を開く
-Win10	x	-	-	-	B	タスクバーの隅にある最初のアイコンにフォーカス
+Win10	x	-	-	-	B	通知領域のフォーカス
+Win11	x	-	-	-	B	タスクバーの隅にある最初のアイコンにフォーカス
 Win10	x	-	-	-	C	Cortanaを開く
 Win11	x	-	-	-	C	Teams から「チャット」を開く
 Win10	x	-	-	-	D	デスクトップを表示（アプリを最小化）
 Win10	x	-	-	-	E	Explorer を開く
 Win10	x	-	-	-	F	フィードバックHubを開く
 Win10	x	-	-	-	G	Xbox Game Bar を開く
+Win11	x	-	-	-	H	音声入力を起動
 Win10	x	-	-	-	I	設定メニューを開く
 Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
-Win10	x	-	-	-	K	
-Win10	x	-	-	-	L	
-Win10	x	-	-	-	M	
-Win10	x	-	-	-	P	
-Win10	x	-	-	-	Q	
-Win10	x	-	-	-	R	
+Win10	x	-	-	-	J	Windowsのヒントにフォーカスを設定
+Win10	x	-	-	-	K	クイックアクションを開く
+Win11	x	-	-	-	K	「クイックスタート」から「キャスト」を開く
+Win10	x	-	-	-	L	PCをロックする
+Win10	x	-	-	-	M	すべてのウィンドウを最小化
+Win10	x	-	-	-	N	（なし）
+Win11	x	-	-	-	N	通知センターと予定表を開く
+Win10	x	-	-	-	O	デバイスの向きをロック
+Win10	x	-	-	-	P	プレゼンテーション表示モードを選択（？）
+Win10	x	-	-	-	Q	クイックアシストを開く
+Win10	x	-	-	-	R	ダイアログボックスを開く（ファイル名を指定して実行）
 Win10	x	-	-	-	S	検索を開く
-Win10	x	-	-	-	T	
-Win10	x	-	-	-	U	
-Win10	x	-	-	-	V	クリップボードの履歴を表示
-Win10	x	-	-	-	W	
+Win10	x	-	-	-	T	タスクバー上のアプリを順番に切り替える
+Win10	x	-	-	-	U	「コンピューターの簡単操作センター」を開く（「設定」を開く）
+Win11	x	-	-	-	U	アクセシビリティの設定を開く
+Win10	x	-	-	-	V	クリップボードの履歴を表示（「スタート」→「設定」→「システム」→「クリップボード」で「クリップボードの履歴」をオンにすること）
+Win10	x	-	-	-	W	（なし）
+Win11	x	-	-	-	W	ウィジェットを開く
+Win10	x	-	-	-	X	クイックリンクのメニューを開く
+Win10	x	-	-	-	Y	Windows Mixed Reality とデスクトップの間で入力を切り替える
+Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマンドを表示する
+Win11	x	-	-	-	Z	スナップレイアウトを開く
+#
+Win10	x	x	-	-	C	
+Win10	x	x	-	-	D	
+Win10	x	x	-	-	→	
+Win10	x	x	-	-	←	
+Win10	x	x	-	-	F4	
+Win10	x	-	x	-	M	
+Win10	x	-	x	-	S	
+Win10	x	-	x	-	<	
 Win10	x	x	-	-	C	
 Win10	x	x	-	-	D	
 Win10	x	x	-	-	→	
@@ -76,10 +98,10 @@ Win10	x	-	-	x	数字	タスクバーのアプリの右クリックメニュー�
 Win10	x	-	-	-	+	拡大鏡をオン，複数回押下で拡大
 Win10	x	-	-	-	-	拡大鏡を縮小
 Win10	x	-	-	-	ESC	拡大鏡をオフ
-Win10	x	-	-	-	:	
-Win10	x	-	-	-	:	
-Win10	x	-	-	-	:	
-Win10	x	-	-	-	:	
+#Win10	x	-	-	-	:	
+#Win10	x	-	-	-	:	
+#Win10	x	-	-	-	:	
+#Win10	x	-	-	-	:	
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10 	-	x	-	-	A	すべて選択
@@ -112,13 +134,16 @@ Win10	-	-	-	x	TAB	別のウィンドウに切り替える
 Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
-Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
+#Win10	-	-	-	-	:	
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#
+# See also:
+# https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
