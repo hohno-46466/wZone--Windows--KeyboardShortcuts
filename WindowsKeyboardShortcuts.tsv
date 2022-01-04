@@ -1,5 +1,19 @@
 Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+Win10	x	-	-	-	(none)	スタートメニュー
+Win10	-	x	-	-	(none)	マウスポインターの位置を示す（要設定）
+Win10	-	-	-	-	F1	ヘルプ
 Win10	-	-	-	-	F2	ファイルやフォルダの名前を変更
+Win10	-	-	-	-	F3	ファイルやホルダの検索
+Win10	-	-	-	-	F4	アドレスバーの表示
+Win10	-	-	-	-	F5	更新
+MSIME	-	-	-	-	F6	ひらがな
+MSIME	-	-	-	-	F7	全角カタカナ
+MSIME	-	-	-	-	F8	半角カタカナ
+MSIME	-	-	-	-	F9	全角英数
+MSIME	-	-	-	-	F10	半角英数
+Win10	-	-	-	-	F11	現在のウィンドウを全画面表示化
+Win10	-	-	-	-	F12	（Office限定）名前を付けて保存
+#
 Win10	-	-	x	-	DEL	ゴミ箱に入れずに削除	
 Win10	-	-	x	-	(Click)	連続したファイアル選択	
 Win10	-	-	x	-	矢印	複数項目を選択	
@@ -17,14 +31,15 @@ MSIME	-	x	x	-	F10	IMEのプライベートモードを ON/OFF
 MSIME	x	-	-	-	/	再変換
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	-	(none)	スタートメニュー
 Win10	x	-	-	-	A	アクションセンターを開く
-Win10	x	-	-	-	B	
-Win10	x	-	-	-	C	
+Win11	x	-	-	-	A	クイック設定を開く
+Win10	x	-	-	-	B	タスクバーの隅にある最初のアイコンにフォーカス
+Win10	x	-	-	-	C	Cortanaを開く
+Win11	x	-	-	-	C	Teams から「チャット」を開く
 Win10	x	-	-	-	D	デスクトップを表示（アプリを最小化）
-Win10	x	-	-	-	E	
-Win10	x	-	-	-	F	
-Win10	x	-	-	-	G	
+Win10	x	-	-	-	E	Explorer を開く
+Win10	x	-	-	-	F	フィードバックHubを開く
+Win10	x	-	-	-	G	Xbox Game Bar を開く
 Win10	x	-	-	-	I	設定メニューを開く
 Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
 Win10	x	-	-	-	K	
@@ -84,16 +99,17 @@ Win10	-	x	-	-	(Drag)
 Win10	-	x	-	-	(MouseWheel)
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	-	PRTSCRN	スクリーンショット
-Win10	x	-	x	-	S	スクリーンショット
-Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウのみ）
+Win10	x	-	-	-	PRTSCRN	スクリーンショット（PNG型式で保存）
+Win10	-	-	-	-	PRTSCRN	スクリーンショット（クリップボードに保存）
+Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）
+Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウをクリップボードに保存）
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	x	SPACE	コマンドランチャー
 Win10	-	-	-	x	F4	アクティブなアプリを終了
 Win10	-	-	-	x	TAB	別のウィンドウに切り替える	
 #
-Win10	-	x	-	x	DEL	ロック画面の表示
+Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	-	:	
