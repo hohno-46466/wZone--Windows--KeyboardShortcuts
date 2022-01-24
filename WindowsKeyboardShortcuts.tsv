@@ -75,18 +75,8 @@ Win10	x	x	-	-	←	仮想デスクトップを左へ
 Win10	x	x	-	-	F4
 
 Win10	x	-	x	-	M
-Win10	x	-	x	-	S
-Win10	x	-	x	-	<
-Win10	x	x	-	-	C
-Win10	x	x	-	-	D
-Win10	x	x	-	-	→
-Win10	x	x	-	-	←
-Win10	x	x	-	-	F4
-Win10	x	-	x	-	M
-Win10	x	-	x	-	S
 Win10	x	-	x	-	<
 Win10	x	-	x	-	>
-Win10	x	-	-	-	X	クイックリンクメニューを表示
 Win10	x	-	-	-	HOME	最前面のウィンドウ以外を最小化 (2 回目の押下ですべてのウィンドウを復元する)
 Win10	x	-	-	-	↑	（複数回押下で最終的に）ウィンドウを最大化
 Win10	x	-	-	-	↓	（複数回押下で最終的に）ウィンドウを最小化
@@ -121,15 +111,17 @@ Win10 	-	x	-	-	X	選択した項目を切り取る
 Win10 	-	x	-	-	Y	元に戻した操作をやり直す
 Win10 	-	x	-	-	Z	操作を元に戻す
 Win10	-	x	x	-	ESC	タスクマネージャの起動
+Win10	-	x	x	-	T	ブラウザタブの復元（複数回押し有効）　
 Win10	-	x	-	-	(Click)
 Win10	-	x	-	-	(Drag)
 Win10	-	x	-	-	(MouseWheel)
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	-	PRTSCRN	スクリーンショット（PNG型式で保存）
+Win10	x	-	-	x	R	画面を録画
+Win10	x	-	-	x	PRTSCRN	スクリーンショット（PNG型式で保存）
 Win10	-	-	-	-	PRTSCRN	スクリーンショット（クリップボードに保存）
-Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）
 Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウをクリップボードに保存）
+Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	x	SPACE	コマンドランチャー
