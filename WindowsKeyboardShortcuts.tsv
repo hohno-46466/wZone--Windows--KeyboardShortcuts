@@ -68,15 +68,11 @@ Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマン�
 Win11	x	-	-	-	Z	スナップレイアウトを開く
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	x	-	-	C
 Win10	x	x	-	-	D	仮想デスクトップを追加
 Win10	x	x	-	-	→	仮想デスクトップを右へ
 Win10	x	x	-	-	←	仮想デスクトップを左へ
 Win10	x	x	-	-	F4
-
-Win10	x	-	x	-	M
-Win10	x	-	x	-	<
-Win10	x	-	x	-	>
+#
 Win10	x	-	-	-	HOME	最前面のウィンドウ以外を最小化 (2 回目の押下ですべてのウィンドウを復元する)
 Win10	x	-	-	-	↑	（複数回押下で最終的に）ウィンドウを最大化
 Win10	x	-	-	-	↓	（複数回押下で最終的に）ウィンドウを最小化
@@ -93,10 +89,6 @@ Win10	x	-	-	x	数字	タスクバーのアプリの右クリックメニュー�
 Win10	x	-	-	-	+	拡大鏡をオン，複数回押下で拡大
 Win10	x	-	-	-	-	拡大鏡を縮小
 Win10	x	-	-	-	ESC	拡大鏡をオフ
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 Win10 	-	x	-	-	A	すべて選択
@@ -131,6 +123,11 @@ Win10	-	-	-	x	TAB	別のウィンドウに切り替える
 Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Win10	x	x	-	-	C
+#Win10	x	-	x	-	M
+#Win10	x	-	x	-	<
+#Win10	x	-	x	-	>
+#
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
@@ -140,6 +137,11 @@ Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
+#Win10	x	-	-	-	:
+#Win10	x	-	-	-	:
+#Win10	x	-	-	-	:
+#Win10	x	-	-	-	:
+#
 #Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
 #
 # See also:
