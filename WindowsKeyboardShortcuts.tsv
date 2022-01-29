@@ -1,4 +1,4 @@
-Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	-	(none)	スタートメニュー
 Win10	-	x	-	-	(none)	マウスポインターの位置を示す（要設定）
 Win10	-	-	-	-	F1	ヘルプ
@@ -19,7 +19,7 @@ Win10	-	-	x	-	(Click)	連続したファイアル選択
 Win10	-	-	x	-	矢印	複数項目を選択
 Win10	-	-	x	-	F10	右クリックメニューを表示
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 MSIME	-	x	-	-	U	ひらがな
 MSIME	-	x	-	-	I	全角カタカナ
 MSIME	-	x	-	-	O	半角カタカナ
@@ -30,7 +30,7 @@ MSIME	-	-	-	-	HOME	カーソルを文頭に移動
 MSIME	-	x	x	-	F10	IMEのプライベートモードを ON/OFF
 MSIME	x	-	-	-	/	再変換
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	-	A	アクションセンターを開く
 Win11	x	-	-	-	A	クイック設定を開く
 Win10	x	-	-	-	B	通知領域のフォーカス
@@ -67,11 +67,11 @@ Win10	x	-	-	-	Y	Windows Mixed Reality とデスクトップの間で入力を切
 Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマンドを表示する
 Win11	x	-	-	-	Z	スナップレイアウトを開く
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	x	-	-	D	仮想デスクトップを追加
 Win10	x	x	-	-	→	仮想デスクトップを右へ
 Win10	x	x	-	-	←	仮想デスクトップを左へ
-Win10	x	x	-	-	F4
+Win10	x	x	-	-	F4	仮想デスクトップを閉じる
 #
 Win10	x	-	-	-	HOME	最前面のウィンドウ以外を最小化 (2 回目の押下ですべてのウィンドウを復元する)
 Win10	x	-	-	-	↑	（複数回押下で最終的に）ウィンドウを最大化
@@ -90,7 +90,7 @@ Win10	x	-	-	-	+	拡大鏡をオン，複数回押下で拡大
 Win10	x	-	-	-	-	拡大鏡を縮小
 Win10	x	-	-	-	ESC	拡大鏡をオフ
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10 	-	x	-	-	A	すべて選択
 Win10 	-	x	-	-	C	選択した項目をコピー
 Win10 	-	x	-	-	N	新規作成
@@ -103,26 +103,30 @@ Win10 	-	x	-	-	X	選択した項目を切り取る
 Win10 	-	x	-	-	Y	元に戻した操作をやり直す
 Win10 	-	x	-	-	Z	操作を元に戻す
 Win10	-	x	x	-	ESC	タスクマネージャの起動
-Win10	-	x	x	-	T	ブラウザタブの復元（複数回押し有効）　
+Win10	-	x	x	-	T	ブラウザタブの復元（複数回押し有効）
 Win10	-	x	-	-	(Click)
 Win10	-	x	-	-	(Drag)
 Win10	-	x	-	-	(MouseWheel)
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	-	-	x	R	画面を録画
 Win10	x	-	-	x	PRTSCRN	スクリーンショット（PNG型式で保存）
 Win10	-	-	-	-	PRTSCRN	スクリーンショット（クリップボードに保存）
 Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウをクリップボードに保存）
 Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	-	-	-	x	SPACE	コマンドランチャー
 Win10	-	-	-	x	F4	アクティブなアプリを終了
 Win10	-	-	-	x	TAB	別のウィンドウに切り替える
+Win10	-	-	-	x	D	ブラウザのアドレスバーを選択
 #
 Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+Win10	-	-	x	x	P	詳細パネルを表示（Explorerのみ？）
+Win10	-	-	-	x	P	プレビューウィンドウを表示
+#
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 #Win10	x	x	-	-	C
 #Win10	x	-	x	-	M
 #Win10	x	-	x	-	<
@@ -136,13 +140,12 @@ Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
 #Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
 #Win10	x	-	-	-	:
 #Win10	x	-	-	-	:
 #Win10	x	-	-	-	:
 #Win10	x	-	-	-	:
 #
-#Type	Windows	Ctrl	Shift	Alt	Key	Description	URL
+#Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 #
 # See also:
 # https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
