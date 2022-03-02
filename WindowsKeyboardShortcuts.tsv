@@ -43,7 +43,6 @@ Win10	x	-	-	-	F	フィードバックHubを開く
 Win10	x	-	-	-	G	Xbox Game Bar を開く
 Win11	x	-	-	-	H	音声入力を起動
 Win10	x	-	-	-	I	設定メニューを開く
-Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
 Win10	x	-	-	-	J	Windowsのヒントにフォーカスを設定
 Win10	x	-	-	-	K	クイックアクションを開く
 Win11	x	-	-	-	K	「クイックスタート」から「キャスト」を開く
@@ -66,6 +65,7 @@ Win10	x	-	-	-	X	クイックリンクのメニューを開く
 Win10	x	-	-	-	Y	Windows Mixed Reality とデスクトップの間で入力を切り替える
 Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマンドを表示する
 Win11	x	-	-	-	Z	スナップレイアウトを開く
+Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
 #
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 Win10	x	x	-	-	D	仮想デスクトップを追加
@@ -82,6 +82,7 @@ Win10	x	-	x	-	↑	ウィンドウを上下いっぱいに配置
 Win10	x	-	x	-	↓	作業中のウィンドウを幅を維持しながら縦方向に元のサイズに戻すか最小化
 Win10	x	-	x	-	←	デスクトップ上のウィンドウを別のモニタに移動
 Win10	x	-	x	-	→	デスクトップ上のウィンドウを別のモニタに移動
+Win10	x	-	(x)	-	/	キーボードショートカットを表示（PowerToys）
 Win10	x	-	-	-	PAUSE	コントロールパネルを開く
 Win10	x	-	-	x	D	日付と時刻を表示
 Win10	x	-	-	-	数字	タスクバーのアプリを起動
@@ -125,6 +126,7 @@ Win10	-	x	-	x	DEL	セキュリティオプションの表示
 #
 Win10	-	-	x	x	P	詳細パネルを表示（Explorerのみ？）
 Win10	-	-	-	x	P	プレビューウィンドウを表示
+#
 #
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
 #Win10	x	x	-	-	C
