@@ -2,7 +2,7 @@
 
 List of Windows Keyboard Shortcuts
 
-    wZone--Windows--KeyboardShortcuts
+    ./wZone--Windows--KeyboardShortcuts
      ├── MSexcelKeyboardShortcuts.tsv
      ├── MSpowerpointKeyboardShortcuts.tsv
      ├── MSwordKeyboardShortcuts.tsv
@@ -12,7 +12,7 @@ List of Windows Keyboard Shortcuts
      0 directories, 5 files (Tue Jan  4 06:50:11 JST 2022)
 
 
-    wZone--Windows--KeyboardShortcuts
+    ./wZone--Windows--KeyboardShortcuts
      ├── MSexcelKeyboardShortcuts.tsv
      ├── MSpowerpointKeyboardShortcuts.tsv
      ├── MSwordKeyboardShortcuts.tsv
