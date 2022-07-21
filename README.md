@@ -16,6 +16,6 @@ List of Windows Keyboard Shortcuts
 
 https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts/blob/main/README.md
 
-Note: url = git@github.com:hohno-46466/wZone--Windows--KeyboardShortcuts.git
-
 Note: url = https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts
+
+Note: url = git@github.com:hohno-46466/wZone--Windows--KeyboardShortcuts.git
