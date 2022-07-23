@@ -19,3 +19,5 @@ https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts/blob/main/READM
 Note: url = https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts
 
 Note: url = git@github.com:hohno-46466/wZone--Windows--KeyboardShortcuts.git
+
+-EOF-
