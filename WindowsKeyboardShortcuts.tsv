@@ -1,154 +1,153 @@
 Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	-	(none)	スタートメニュー
-Win10	-	x	-	-	(none)	マウスポインターの位置を示す（要設定）
-Win10	-	-	-	-	F1	ヘルプ
-Win10	-	-	-	-	F2	ファイルやフォルダの名前を変更
-Win10	-	-	-	-	F3	ファイルやホルダの検索
-Win10	-	-	-	-	F4	アドレスバーの表示
-Win10	-	-	-	-	F5	更新
-MSIME	-	-	-	-	F6	ひらがな
-MSIME	-	-	-	-	F7	全角カタカナ
-MSIME	-	-	-	-	F8	半角カタカナ
-MSIME	-	-	-	-	F9	全角英数
-MSIME	-	-	-	-	F10	半角英数
-Win10	-	-	-	-	F11	現在のウィンドウを全画面表示化
-Win10	-	-	-	-	F12	（Office限定）名前を付けて保存
-#
-Win10	-	-	x	-	DEL	ゴミ箱に入れずに削除
-Win10	-	-	x	-	(Click)	連続したファイアル選択
-Win10	-	-	x	-	矢印	複数項目を選択
-Win10	-	-	x	-	F10	右クリックメニューを表示
-#
+Win10	x	-	-	-	(none)	スタートメニュー	-
+Win10	-	x	-	-	(none)	マウスポインターの位置を示す（要設定）	-
+Win10	-	-	-	-	F1	ヘルプ	-
+Win10	-	-	-	-	F2	ファイルやフォルダの名前を変更	-
+Win10	-	-	-	-	F3	ファイルやホルダの検索	-
+Win10	-	-	-	-	F4	アドレスバーの表示	-
+Win10	-	-	-	-	F5	更新	-
+MSIME	-	-	-	-	F6	ひらがな	-
+MSIME	-	-	-	-	F7	全角カタカナ	-
+MSIME	-	-	-	-	F8	半角カタカナ	-
+MSIME	-	-	-	-	F9	全角英数	-
+MSIME	-	-	-	-	F10	半角英数	-
+Win10	-	-	-	-	F11	現在のウィンドウを全画面表示化	-
+Win10	-	-	-	-	F12	（Office限定）名前を付けて保存	-
+#	-	-	-	-	-	-	-
+Win10	-	-	x	-	DEL	ゴミ箱に入れずに削除	-
+Win10	-	-	x	-	(Click)	連続したファイアル選択	-
+Win10	-	-	x	-	矢印	複数項目を選択	-
+Win10	-	-	x	-	F10	右クリックメニューを表示	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-MSIME	-	x	-	-	U	ひらがな
-MSIME	-	x	-	-	I	全角カタカナ
-MSIME	-	x	-	-	O	半角カタカナ
-MSIME	-	x	-	-	P	全角英数
-MSIME	-	x	-	-	T	半角英数
-MSIME	-	-	-	-	SPACE	漢字に変換
-MSIME	-	-	-	-	HOME	カーソルを文頭に移動
-MSIME	-	x	x	-	F10	IMEのプライベートモードを ON/OFF
-MSIME	x	-	-	-	/	再変換
-#
+MSIME	-	x	-	-	U	ひらがな	-
+MSIME	-	x	-	-	I	全角カタカナ	-
+MSIME	-	x	-	-	O	半角カタカナ	-
+MSIME	-	x	-	-	P	全角英数	-
+MSIME	-	x	-	-	T	半角英数	-
+MSIME	-	-	-	-	SPACE	漢字に変換	-
+MSIME	-	-	-	-	HOME	カーソルを文頭に移動	-
+MSIME	-	x	x	-	F10	IMEのプライベートモードを ON/OFF	-
+MSIME	x	-	-	-	/	再変換	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	-	A	アクションセンターを開く
-Win11	x	-	-	-	A	クイック設定を開く
-Win10	x	-	-	-	B	通知領域のフォーカス
-Win11	x	-	-	-	B	タスクバーの隅にある最初のアイコンにフォーカス
-Win10	x	-	-	-	C	Cortanaを開く
-Win11	x	-	-	-	C	Teams から「チャット」を開く
-Win10	x	-	-	-	D	デスクトップを表示（アプリを最小化）
-Win10	x	-	-	-	E	Explorer を開く
-Win10	x	-	-	-	F	フィードバックHubを開く
-Win10	x	-	-	-	G	Xbox Game Bar を開く
-Win11	x	-	-	-	H	音声入力を起動
-Win10	x	-	-	-	I	設定メニューを開く
-Win10	x	-	-	-	J	Windowsのヒントにフォーカスを設定
-Win10	x	-	-	-	K	クイックアクションを開く
-Win11	x	-	-	-	K	「クイックスタート」から「キャスト」を開く
-Win10	x	-	-	-	L	PCをロックする
-Win10	x	-	-	-	M	すべてのウィンドウを最小化
-Win10	x	-	-	-	N	（なし）
-Win11	x	-	-	-	N	通知センターと予定表を開く
-Win10	x	-	-	-	O	デバイスの向きをロック
-Win10	x	-	-	-	P	プレゼンテーション表示モードを選択（？）
-Win10	x	-	-	-	Q	クイックアシストを開く
-Win10	x	-	-	-	R	ダイアログボックスを開く（ファイル名を指定して実行）
-Win10	x	-	-	-	S	検索を開く
-Win10	x	-	-	-	T	タスクバー上のアプリを順番に切り替える
-Win10	x	-	-	-	U	「コンピューターの簡単操作センター」を開く（「設定」を開く）
-Win11	x	-	-	-	U	アクセシビリティの設定を開く
-Win10	x	-	-	-	V	クリップボードの履歴を表示（「スタート」→「設定」→「システム」→「クリップボード」で「クリップボードの履歴」をオンにすること）
-Win10	x	-	-	-	W	（なし）
-Win11	x	-	-	-	W	ウィジェットを開く
-Win10	x	-	-	-	X	クイックリンクのメニューを開く
-Win10	x	-	-	-	Y	Windows Mixed Reality とデスクトップの間で入力を切り替える
-Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマンドを表示する
-Win11	x	-	-	-	Z	スナップレイアウトを開く
-Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）
-#
+Win10	x	-	-	-	A	アクションセンターを開く	-
+Win11	x	-	-	-	A	クイック設定を開く	-
+Win10	x	-	-	-	B	通知領域のフォーカス	-
+Win11	x	-	-	-	B	タスクバーの隅にある最初のアイコンにフォーカス	-
+Win10	x	-	-	-	C	Cortanaを開く	-
+Win11	x	-	-	-	C	Teams から「チャット」を開く	-
+Win10	x	-	-	-	D	デスクトップを表示（アプリを最小化）	-
+Win10	x	-	-	-	E	Explorer を開く	-
+Win10	x	-	-	-	F	フィードバックHubを開く	-
+Win10	x	-	-	-	G	Xbox Game Bar を開く	-
+Win11	x	-	-	-	H	音声入力を起動	-
+Win10	x	-	-	-	I	設定メニューを開く	-
+Win10	x	-	-	-	J	Windowsのヒントにフォーカスを設定	-
+Win10	x	-	-	-	K	クイックアクションを開く	-
+Win11	x	-	-	-	K	「クイックスタート」から「キャスト」を開く	-
+Win10	x	-	-	-	L	PCをロックする	-
+Win10	x	-	-	-	M	すべてのウィンドウを最小化	-
+Win10	x	-	-	-	N	（なし）	-
+Win11	x	-	-	-	N	通知センターと予定表を開く	-
+Win10	x	-	-	-	O	デバイスの向きをロック	-
+Win10	x	-	-	-	P	プレゼンテーション表示モードを選択（？）	-
+Win10	x	-	-	-	Q	クイックアシストを開く	-
+Win10	x	-	-	-	R	ダイアログボックスを開く（ファイル名を指定して実行）	-
+Win10	x	-	-	-	S	検索を開く	-
+Win10	x	-	-	-	T	タスクバー上のアプリを順番に切り替える	-
+Win10	x	-	-	-	U	「コンピューターの簡単操作センター」を開く（「設定」を開く）	-
+Win11	x	-	-	-	U	アクセシビリティの設定を開く	-
+Win10	x	-	-	-	V	クリップボードの履歴を表示（「スタート」→「設定」→「システム」→「クリップボード」で「クリップボードの履歴」をオンにすること）	-
+Win10	x	-	-	-	W	（なし）	-
+Win11	x	-	-	-	W	ウィジェットを開く	-
+Win10	x	-	-	-	X	クイックリンクのメニューを開く	-
+Win10	x	-	-	-	Y	Windows Mixed Reality とデスクトップの間で入力を切り替える	-
+Win10	x	-	-	-	Z	全画面表示モードのアプリで使用できるコマンドを表示する	-
+Win11	x	-	-	-	Z	スナップレイアウトを開く	-
+Win10	x	-	-	-	,	デスクトップを表示（アプリを透明化）	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	x	-	-	D	仮想デスクトップを追加
-Win10	x	x	-	-	→	仮想デスクトップを右へ
-Win10	x	x	-	-	←	仮想デスクトップを左へ
-Win10	x	x	-	-	F4	仮想デスクトップを閉じる
-#
-Win10	x	-	-	-	HOME	最前面のウィンドウ以外を最小化 (2 回目の押下ですべてのウィンドウを復元する)
-Win10	x	-	-	-	↑	（複数回押下で最終的に）ウィンドウを最大化
-Win10	x	-	-	-	↓	（複数回押下で最終的に）ウィンドウを最小化
-Win10	x	-	-	-	←	ウィンドウを左半分に配置
-Win10	x	-	-	-	→	ウィンドウを右半分に配置
-Win10	x	-	x	-	↑	ウィンドウを上下いっぱいに配置
-Win10	x	-	x	-	↓	作業中のウィンドウを幅を維持しながら縦方向に元のサイズに戻すか最小化
-Win10	x	-	x	-	←	デスクトップ上のウィンドウを別のモニタに移動
-Win10	x	-	x	-	→	デスクトップ上のウィンドウを別のモニタに移動
-Win10	x	-	(x)	-	/	キーボードショートカットを表示（PowerToys）
-Win10	x	-	-	-	PAUSE	コントロールパネルを開く
-Win10	x	-	-	x	D	日付と時刻（カレンダー）を表示
-Win10	x	-	-	-	数字	タスクバーのアプリを起動
-Win10	x	-	-	x	数字	タスクバーのアプリの右クリックメニューを表示
-Win10	x	-	-	-	+	拡大鏡をオン，複数回押下で拡大
-Win10	x	-	-	-	-	拡大鏡を縮小
-Win10	x	-	-	-	ESC	拡大鏡をオフ
-#
+Win10	x	x	-	-	D	仮想デスクトップを追加	-
+Win10	x	x	-	-	→	仮想デスクトップを右へ	-
+Win10	x	x	-	-	←	仮想デスクトップを左へ	-
+Win10	x	x	-	-	F4	仮想デスクトップを閉じる	-
+#	-	-	-	-	-	-	-
+Win10	x	-	-	-	HOME	最前面のウィンドウ以外を最小化 (2 回目の押下ですべてのウィンドウを復元する)	-
+Win10	x	-	-	-	↑	（複数回押下で最終的に）ウィンドウを最大化	-
+Win10	x	-	-	-	↓	（複数回押下で最終的に）ウィンドウを最小化	-
+Win10	x	-	-	-	←	ウィンドウを左半分に配置	-
+Win10	x	-	-	-	→	ウィンドウを右半分に配置	-
+Win10	x	-	x	-	↑	ウィンドウを上下いっぱいに配置	-
+Win10	x	-	x	-	↓	作業中のウィンドウを幅を維持しながら縦方向に元のサイズに戻すか最小化	-
+Win10	x	-	x	-	←	デスクトップ上のウィンドウを別のモニタに移動	-
+Win10	x	-	x	-	→	デスクトップ上のウィンドウを別のモニタに移動	-
+Win10	x	-	(x)	-	/	キーボードショートカットを表示（PowerToys）	-
+Win10	x	-	-	-	PAUSE	コントロールパネルを開く	-
+Win10	x	-	-	x	D	日付と時刻（カレンダー）を表示	-
+Win10	x	-	-	-	数字	タスクバーのアプリを起動	-
+Win10	x	-	-	x	数字	タスクバーのアプリの右クリックメニューを表示	-
+Win10	x	-	-	-	+	拡大鏡をオン，複数回押下で拡大	-
+Win10	x	-	-	-	-	拡大鏡を縮小	-
+Win10	x	-	-	-	ESC	拡大鏡をオフ	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10 	-	x	-	-	A	すべて選択
-Win10 	-	x	-	-	C	選択した項目をコピー
-Win10 	-	x	-	-	N	新規作成
-Win10 	-	x	-	-	O	ファイルを開く
-Win10 	-	x	-	-	P	印刷画面を表示
-Win10 	-	x	-	-	S	ファイルを保存
-Win10 	-	x	-	-	V	切り取り，コピーした項目を貼り付け
-Win10 	-	x	-	-	W	表示中のファイルやアプリを閉じる
-Win10 	-	x	-	-	X	選択した項目を切り取る
-Win10 	-	x	-	-	Y	元に戻した操作をやり直す
-Win10 	-	x	-	-	Z	操作を元に戻す
-Win10	-	x	x	-	ESC	タスクマネージャの起動
-Win10	-	x	x	-	T	ブラウザタブの復元（複数回押し有効）
-Win10	-	x	-	-	(Click)
-Win10	-	x	-	-	(Drag)
-Win10	-	x	-	-	(MouseWheel)
-#
+Win10 	-	x	-	-	A	すべて選択	-
+Win10 	-	x	-	-	C	選択した項目をコピー	-
+Win10 	-	x	-	-	N	新規作成	-
+Win10 	-	x	-	-	O	ファイルを開く	-
+Win10 	-	x	-	-	P	印刷画面を表示	-
+Win10 	-	x	-	-	S	ファイルを保存	-
+Win10 	-	x	-	-	V	切り取り，コピーした項目を貼り付け	-
+Win10 	-	x	-	-	W	表示中のファイルやアプリを閉じる	-
+Win10 	-	x	-	-	X	選択した項目を切り取る	-
+Win10 	-	x	-	-	Y	元に戻した操作をやり直す	-
+Win10 	-	x	-	-	Z	操作を元に戻す	-
+Win10	-	x	x	-	ESC	タスクマネージャの起動	-
+Win10	-	x	x	-	T	ブラウザタブの復元（複数回押し有効）	-
+Win10	-	x	-	-	(Click)	-	-
+Win10	-	x	-	-	(Drag)	-	-
+Win11	-	x	-	-	(MouseWheel)	-	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10	x	-	-	x	R	画面を録画
-Win10	x	-	-	x	PRTSCRN	スクリーンショット（PNG型式で保存）
-Win10	-	-	-	-	PRTSCRN	スクリーンショット（クリップボードに保存）
-Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウをクリップボードに保存）
-Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）
-#
+Win10	x	-	-	x	R	画面を録画	-
+Win10	x	-	-	x	PRTSCRN	スクリーンショット（PNG型式で保存）	-
+Win10	-	-	-	-	PRTSCRN	スクリーンショット（クリップボードに保存）	-
+Win10	-	-	-	x	PRTSCRN	スクリーンショット（アクティブなウィンドウをクリップボードに保存）	-
+Win10	x	-	x	-	S	スクリーンショット（指定した範囲をクリップボードに保存）	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-Win10	-	-	-	x	SPACE	コマンドランチャー
-Win10	-	-	-	x	F4	アクティブなアプリを終了
-Win10	-	-	-	x	TAB	別のウィンドウに切り替える
-Win10	-	-	-	x	D	ブラウザのアドレスバーを選択
-#
-Win10	-	x	-	x	DEL	セキュリティオプションの表示
-#
-Win10	-	-	x	x	P	詳細パネルを表示（Explorerのみ？）
-Win10	-	-	-	x	P	プレビューウィンドウを表示
-#
-#
+Win10	-	-	-	x	SPACE	コマンドランチャー	-
+Win10	-	-	-	x	F4	アクティブなアプリを終了	-
+Win10	-	-	-	x	TAB	別のウィンドウに切り替える	-
+Win10	-	-	-	x	D	ブラウザのアドレスバーを選択	-
+#	-	-	-	-	-	-	-
+Win10	-	x	-	x	DEL	セキュリティオプションの表示	-
+#	-	-	-	-	-	-	-
+Win10	-	-	x	x	P	詳細パネルを表示（Explorerのみ？）	-
+Win10	-	-	-	x	P	プレビューウィンドウを表示	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-#Win10	x	x	-	-	C
-#Win10	x	-	x	-	M
-#Win10	x	-	x	-	<
-#Win10	x	-	x	-	>
-#
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	-	-	-	-	:
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
-#Win10	x	-	-	-	:
-#
+#Win10	x	x	-	-	C	-	-
+#Win10	x	-	x	-	M	-	-
+#Win10	x	-	x	-	<	-	-
+#Win10	x	-	x	-	>	-	-
+#	-	-	-	-	-	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	-	-	-	-	:	-	-
+#Win10	x	-	-	-	:	-	-
+#Win10	x	-	-	-	:	-	-
+#Win10	x	-	-	-	:	-	-
+#Win10	x	-	-	-	:	-	-
+#	-	-	-	-	-	-	-
 #Type	WinKey	Ctrl	Shift	Alt	Key	Description	URL
-#
-# See also:
-# https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
-# https://bit.ly/3nGBplr
+#	-	-	-	-	-	-	-
+# See also:	-	-	-	-	-	-	-
+# https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10	-	-	-	-	-	-`	-
+# https://bit.ly/3nGBplr	-	-	-	-	-	-	-
