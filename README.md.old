@@ -2,7 +2,7 @@
 
 List of Windows Keyboard Shortcuts
 
-    ./wZone--Windows--KeyboardShortcuts
+    ./wZone--Windows--KeyboardShortcuts/
      ├──  MSexcelKeyboardShortcuts.tsv
      ├──  MSpowerpointKeyboardShortcuts.tsv
      ├──  MSwordKeyboardShortcuts.tsv
@@ -11,7 +11,7 @@ List of Windows Keyboard Shortcuts
      ├──  Vimium.tsv
      └──  WindowsKeyboardShortcuts.tsv
      
-     0 directories, 7 files (Sun Aug 14 23:18:03 JST 2022)
+     0 directories, 7 files (Tue Aug 30 13:17:43 JST 2022)
 
 
 https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts/blob/main/README.md
