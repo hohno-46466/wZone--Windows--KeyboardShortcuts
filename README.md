@@ -11,7 +11,7 @@ List of Windows Keyboard Shortcuts
      ├──  Vimium.tsv
      └──  WindowsKeyboardShortcuts.tsv
      
-     0 directories, 7 files (Fri Sep  9 06:46:40 JST 2022)
+     0 directories, 7 files (Sat Sep 24 17:45:56 JST 2022)
 
 
 https://github.com/hohno-46466/wZone--Windows--KeyboardShortcuts/blob/main/README.md
